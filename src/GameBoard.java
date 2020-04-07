@@ -1,3 +1,7 @@
+/**
+ *
+ * @author Leandro Silveira
+ */
 
 public class GameBoard {
 	/*THIS IS THE CLASS THAT CREATES THE ATTRIBUTES THAT BELONGS TO THE GAMEBOARD,

@@ -1,5 +1,13 @@
 import java.util.Arrays;
 import java.util.Scanner;
+/**
+*
+* @author Leandro Silveira
+*/
+
+
+
+
 /*this is the main class of the program, this class controls all the other classes 
  * and here will be displayed the game for the user.
  */

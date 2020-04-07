@@ -1,4 +1,8 @@
 import java.util.Random;
+/**
+*
+* @author Leandro Silveira
+*/
 public class Boat {
 	private int [] [] dimension;
 	private int extent;
