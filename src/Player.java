@@ -1,4 +1,7 @@
-
+/**
+ *
+ * @author Leandro Silveira
+ */
 public class Player {
 	//this class creates the instances for a player, all the attributes that belongs to it.
 	public String gamerName;
