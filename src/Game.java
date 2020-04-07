@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class Game {
 	
-	//global variables
+	//global variables allocating object players in an array
 	private boolean gameDone;
 	private Player[] alocatedPlayers;
 	
